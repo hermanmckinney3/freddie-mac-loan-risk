@@ -6,7 +6,8 @@ Predicting 90+ day mortgage delinquency from origination data on 50,000 Freddie 
 ---
 
 ## Top Default Risk Drivers
-<img width="990" height="790" alt="chartted" src="https://github.com/user-attachments/assets/0364d117-23ac-470b-b21f-44a8000b4c5a" />
+<img width="794" height="635" alt="chartted" src="https://github.com/user-attachments/assets/b852fcc5-c25f-4d46-acf9-389681139c1f" />
+
 
 
 *Logistic regression coefficients for the 15 strongest features. Red = raises default risk, blue = lowers it. Features were scaled first, so bar lengths can be compared directly.*
